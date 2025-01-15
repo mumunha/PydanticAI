@@ -1,6 +1,11 @@
 
 # PydanticAI Tutorial e Exemplos
 
+[![Tutorial PydanticAI](https://img.youtube.com/vi/vxnGi9WTHM0/0.jpg)](https://www.youtube.com/watch?v=vxnGi9WTHM0)
+
+🎥 **[Assista ao Tutorial em Vídeo](https://www.youtube.com/watch?v=vxnGi9WTHM0)**
+
+
 Este repositório contém um guia prático e exemplos de uso do PydanticAI, demonstrando como construir aplicações inteligentes com validação de tipos usando Python.
 
 ## 🎯 Visão Geral
@@ -62,11 +67,8 @@ PydanticAI é uma extensão que conecta o Pydantic com LLMs (Large Language Mode
 
 ## 🚀 Como Começar
 
-1. **Clone o Repositório**
-```bash
-git clone https://github.com/seu-usuario/pydantic-ai-examples.git
-cd pydantic-ai-examples
-```
+1. **Copie o conteudo desse Repositório**
+
 
 2. **Instale as Dependências**
 ```bash
@@ -88,23 +90,21 @@ python exemplos/exemplo1.py
 ```
 .
 ├── README.md
-├── exemplos/
-│   ├── exemplo1.py  # Agente Básico
-│   ├── exemplo2.py  # Respostas Estruturadas
-│   ├── exemplo3.py  # Injeção de Dependências
-│   ├── exemplo4.py  # Ferramentas (Tools)
-│   ├── exemplo5.py  # Auto-Correção
-│   └── exemplo6.py  # Caso Completo
-└── .env
+├── exemplo1.py  # Agente Básico
+├── exemplo2.py  # Respostas Estruturadas
+├── exemplo3.py  # Injeção de Dependências
+├── exemplo4.py  # Ferramentas (Tools)
+├── exemplo5.py  # Auto-Correção
+└── exemplo6.py  # Caso Completo
 ```
 
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Siga estes passos:
 1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
+2. Crie uma branch para sua feature 
+3. Commit suas mudanças 
+4. Push para a branch 
 5. Abra um Pull Request
 
 ## 📝 Licença
